@@ -6,5 +6,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=x-hw&hide=prs,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" />
 
-- I'm back to update my repos. 😂
-- 🤔 but may be slow because I'm looking for a job.💻
+- 💻 this is a backend engineer.
+- 🤝 nice to meet u.
+- and i may be slow to respond since I'm looking for a job.
