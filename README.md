@@ -6,6 +6,5 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=x-hw&hide=prs,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" />
 
-- 💻 this is a backend engineer.
+- 💻 I'm a backend programmer.
 - 🤝 nice to meet u.
-- and i may be slow to respond since I'm looking for a job.
